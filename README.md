@@ -2,10 +2,12 @@
 ## How I am going to build the app: 
 
 - Define the title add a score and best score and add the cards  
-- make a logic for when I press a card it adds one point to the score but if the card has been already press then restart the game
+- make a logic for when I press a card it adds one point to the 
+score but if the card has been already press then restart the game
 - add a logic to define the best score
 - add game logic
-- add a logic when I press a card the position of the card randomize: have a base state and modify to random state when a card is pressed.
+- add a logic when I press a card the position of the card randomize: 
+have a base state and modify to random state when a card is pressed.
 
 ## Components: 
  - card Component
